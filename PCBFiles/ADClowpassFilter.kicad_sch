@@ -1,0 +1,15 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "b2ababa3-f29d-476a-a078-1493b70ec1be")
+	(paper "A4")
+	(title_block
+		(title "LakeShoreOnlyTempMonitor")
+		(date "2024-09-09")
+		(rev "2.0")
+		(company "ChipDesighnSystems")
+		(comment 1 "Designed by: Lawrance KIamilev")
+	)
+	(lib_symbols)
+)
